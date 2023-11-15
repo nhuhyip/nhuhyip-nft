@@ -1,7 +1,7 @@
 {
     "name": "Nhuhyip",
     "description": "Nhuhyip Logo",
-    "image_url": "https://github.com/blockdev-vn/nft-demo/raw/master/cards/1.jpg",
+    "image_url": "https://raw.githubusercontent.com/nhuhyip/nhuhyip-nft/main/1.png",
     "attributes": [
         {
           "trait_type": "Version", 
